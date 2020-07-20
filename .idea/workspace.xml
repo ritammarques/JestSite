@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e24a7f2e-c45c-412b-853b-67a3cb14c6e8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-31671609">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="78" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.6" value="10" />
+          <entry key="project.open.time.7" value="15" />
+          <entry key="project.open.time.8" value="9" />
+          <entry key="project.open.time.9" value="20" />
+          <entry key="project.opened" value="96" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="16" />
+          <entry key="html" value="27" />
+          <entry key="js" value="28" />
+          <entry key="png" value="7" />
+          <entry key="svg" value="19" />
+          <entry key="ts" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="16" />
+          <entry key="HTML" value="27" />
+          <entry key="Image" value="7" />
+          <entry key="JavaScript" value="28" />
+          <entry key="SVG" value="19" />
+          <entry key="TypeScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="27139" />
+          <entry key="html" value="18755" />
+          <entry key="js" value="9350" />
+          <entry key="svg" value="105" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="27139" />
+          <entry key="HTML" value="18755" />
+          <entry key="JavaScript" value="9350" />
+          <entry key="SVG" value="105" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menu.myd.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="6" selection-start-line="16" selection-end-line="29" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#scroll-page#2;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#0;n#scroll-page#2;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#scroll-page#2;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#3;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#1;n#div#3;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#scroll-page#5;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myd.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="8057" selection-start-line="8057" selection-end-line="8057" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#scrool-page#0;n#footer#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1802">
+              <caret line="106" selection-start-line="106" selection-end-line="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js.myd.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.myd.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8789">
+              <caret line="517" column="5" selection-start-line="517" selection-start-column="5" selection-end-line="517" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/siteDAT/loja.js" />
+        <option value="$PROJECT_DIR$/../MYD/MYD3/Sem título-1.svg" />
+        <option value="$PROJECT_DIR$/oradores.svg" />
+        <option value="$PROJECT_DIR$/inscricao.html" />
+        <option value="$PROJECT_DIR$/js.myd.inscricoes.js" />
+        <option value="$PROJECT_DIR$/bruno_antunes_telemovel.svg" />
+        <option value="$PROJECT_DIR$/js.myd.js" />
+        <option value="$PROJECT_DIR$/menu.myd.js" />
+        <option value="$PROJECT_DIR$/oradores_ecra_telemovel_luana_velho.svg" />
+        <option value="$PROJECT_DIR$/orador_luana_velho.svg" />
+        <option value="$PROJECT_DIR$/oradores_ecra_telemovel_bruno_antunes.svg" />
+        <option value="$PROJECT_DIR$/orador_bruno_antunes.svg" />
+        <option value="$PROJECT_DIR$/workshop_andre.svg" />
+        <option value="$PROJECT_DIR$/workshop_ecra_telemovel_andre.svg" />
+        <option value="$PROJECT_DIR$/workshop_daniel.svg" />
+        <option value="$PROJECT_DIR$/oradores_ecra_telemovel_daniel.svg" />
+        <option value="$PROJECT_DIR$/Pitch.html" />
+        <option value="$PROJECT_DIR$/edicoes_anteriores.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.myd.css" />
+        <option value="$PROJECT_DIR$/cerebro_telemovel_Prancheta 1.svg" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/js.js" />
+        <option value="$PROJECT_DIR$/myd.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value=".active&#9;null&#9;null&#10;icon&#9;null&#9;null&#10;galle&#9;null&#9;null&#10;RH&#9;null&#9;null&#10;rh&#9;null&#9;null&#10;pequeno&#9;null&#9;null&#10;tit_&#9;null&#9;null&#10;fundo&#9;null&#9;null&#10;edi&#9;null&#9;null&#10;.RH&#9;null&#9;null&#10;conten&#9;null&#9;null&#10;gal&#9;null&#9;null&#10;edicoes &#9;null&#9;null&#10;focus&#9;null&#9;null&#10;.footer&#9;null&#9;null&#10;about&#9;null&#9;null&#10;info&#9;null&#9;null&#10;out&#9;null&#9;null&#10;outre&#9;null&#9;null&#10;ecrapr&#9;null&#9;null&#10;.se&#9;null&#9;null&#10;.Who&#9;null&#9;null&#10;.Wh&#9;null&#9;null&#10;Who&#9;null&#9;null&#10;.tit1&#9;null&#9;null&#10;.servi&#9;null&#9;null&#10;ab&#9;null&#9;null&#10;logo&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/SiteDAT2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e24a7f2e-c45c-412b-853b-67a3cb14c6e8" name="Default Changelist" comment="" />
+      <created>1559165680033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559165680033</updated>
+      <workItem from="1559165681793" duration="18000" />
+      <workItem from="1559725177105" duration="14570000" />
+      <workItem from="1559751242750" duration="16119000" />
+      <workItem from="1559820306394" duration="28165000" />
+      <workItem from="1559917720430" duration="6021000" />
+      <workItem from="1560022882760" duration="623000" />
+      <workItem from="1561731689914" duration="185000" />
+      <workItem from="1561977950437" duration="596000" />
+      <workItem from="1562190187428" duration="7017000" />
+      <workItem from="1562240898258" duration="12828000" />
+      <workItem from="1562325904631" duration="17755000" />
+      <workItem from="1562501267823" duration="12656000" />
+      <workItem from="1563189318038" duration="601000" />
+      <workItem from="1563621839409" duration="566000" />
+      <workItem from="1563785413903" duration="4978000" />
+      <workItem from="1563961024848" duration="1208000" />
+      <workItem from="1563969148953" duration="3440000" />
+      <workItem from="1563979275605" duration="595000" />
+      <workItem from="1563981862900" duration="1298000" />
+      <workItem from="1564001736875" duration="24000" />
+      <workItem from="1564225945105" duration="15313000" />
+      <workItem from="1564359370349" duration="3488000" />
+      <workItem from="1564397962739" duration="26364000" />
+      <workItem from="1564506171736" duration="1204000" />
+      <workItem from="1564594506946" duration="3043000" />
+      <workItem from="1564743920373" duration="825000" />
+      <workItem from="1567457969988" duration="1928000" />
+      <workItem from="1567871427581" duration="1238000" />
+      <workItem from="1568575520492" duration="1540000" />
+      <workItem from="1568889501154" duration="769000" />
+      <workItem from="1569081254705" duration="1587000" />
+      <workItem from="1569263095394" duration="279000" />
+      <workItem from="1569416238040" duration="599000" />
+      <workItem from="1569442943369" duration="1577000" />
+      <workItem from="1569489356802" duration="4402000" />
+      <workItem from="1569755535329" duration="2510000" />
+      <workItem from="1569949057184" duration="4238000" />
+      <workItem from="1570015031783" duration="599000" />
+      <workItem from="1570113962787" duration="599000" />
+      <workItem from="1571233001120" duration="603000" />
+      <workItem from="1571237033624" duration="599000" />
+      <workItem from="1571268318384" duration="599000" />
+      <workItem from="1571397135498" duration="598000" />
+      <workItem from="1571682483508" duration="11623000" />
+      <workItem from="1571751578052" duration="9396000" />
+      <workItem from="1571820566537" duration="10983000" />
+      <workItem from="1571832117207" duration="7060000" />
+      <workItem from="1571866541321" duration="3027000" />
+      <workItem from="1572868709893" duration="1202000" />
+      <workItem from="1573473247780" duration="3728000" />
+      <workItem from="1573753132459" duration="204000" />
+      <workItem from="1573842573386" duration="599000" />
+      <workItem from="1574088547435" duration="599000" />
+      <workItem from="1574190651008" duration="7464000" />
+      <workItem from="1574336872229" duration="19132000" />
+      <workItem from="1574538607896" duration="9089000" />
+      <workItem from="1574775304743" duration="3676000" />
+      <workItem from="1574853425195" duration="9643000" />
+      <workItem from="1575299423279" duration="599000" />
+      <workItem from="1575312651360" duration="4895000" />
+      <workItem from="1575545697542" duration="531000" />
+      <workItem from="1575546457653" duration="3576000" />
+      <workItem from="1575634067692" duration="1200000" />
+      <workItem from="1575903905264" duration="1276000" />
+      <workItem from="1576417268921" duration="601000" />
+      <workItem from="1576443580591" duration="1285000" />
+      <workItem from="1576539957611" duration="425000" />
+      <workItem from="1576607006215" duration="133000" />
+      <workItem from="1578518446730" duration="1222000" />
+      <workItem from="1579090384765" duration="9486000" />
+      <workItem from="1579347048395" duration="2638000" />
+      <workItem from="1579349765470" duration="4350000" />
+      <workItem from="1579708511873" duration="4328000" />
+      <workItem from="1579713088900" duration="7228000" />
+      <workItem from="1580136078088" duration="2494000" />
+      <workItem from="1580224336044" duration="4045000" />
+      <workItem from="1580326099177" duration="7025000" />
+      <workItem from="1580506634774" duration="2803000" />
+      <workItem from="1580592977606" duration="1981000" />
+      <workItem from="1580937356402" duration="602000" />
+      <workItem from="1581544967100" duration="640000" />
+      <workItem from="1582047607031" duration="368000" />
+      <workItem from="1585867955951" duration="1431000" />
+      <workItem from="1585926233794" duration="22396000" />
+      <workItem from="1585997898313" duration="2230000" />
+      <workItem from="1586108183388" duration="7758000" />
+      <workItem from="1586619445438" duration="599000" />
+      <workItem from="1586961120763" duration="7056000" />
+      <workItem from="1586971972029" duration="13515000" />
+      <workItem from="1587127101665" duration="599000" />
+      <workItem from="1587204037622" duration="2997000" />
+      <workItem from="1587221361491" duration="14269000" />
+      <workItem from="1588591977444" duration="4913000" />
+      <workItem from="1589124095445" duration="10000" />
+      <workItem from="1594655258095" duration="420000" />
+      <workItem from="1595166631328" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="444571000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12491738" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06308101" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js.js</url>
+          <line>335</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jest.com2018-master/contact.html" />
+    <entry file="file://$PROJECT_DIR$/jest.com2018-master/index.html" />
+    <entry file="file://D:/siteDAT/menu.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/siteDAT/menu2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/siteDAT/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408" />
+      </provider>
+    </entry>
+    <entry file="file://D:/siteDAT/js.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/SiteDAT2/siteDAT/js.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/meta1final - 2/javascript2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/siteDAT/loja.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/siteDAT/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://D:/meta1final - 2/meta1final - 2/meta-1-2/jacascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://D:/SiteDAT2/siteDAT/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jest.com2018-master/index.css" />
+    <entry file="file://$PROJECT_DIR$/condulting_pic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainning_pic-01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logoJest.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myd svg.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cerebro.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/SiteDAT2/siteDAT/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19125">
+          <caret line="1125" selection-start-line="1125" selection-end-line="1125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SiteDAT2/siteDAT/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MYD/MYD3/Sem título-1.svg" />
+    <entry file="file://$PROJECT_DIR$/../MYD/MYD3/relogio.svg" />
+    <entry file="file://$PROJECT_DIR$/../MYD/MYD3/relogio2.svg" />
+    <entry file="file://D:/siteDAT/comprar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="68" column="10" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="68" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oradores.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bruno antunes.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bruno_antunes_telemovel.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oradores_ecra_telemovel_luana_velho.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orador_luana_velho.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oradores_ecra_telemovel_bruno_antunes.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orador_bruno_antunes.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oradores_ecra_telemovel_daniel.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop_andre.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop_ecra_telemovel_andre.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop_daniel.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js.myd.inscricoes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="68" column="71" selection-start-line="68" selection-start-column="71" selection-end-line="68" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/andreferreira.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pitch.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="2791" column="4" selection-start-line="2791" selection-start-column="4" selection-end-line="2791" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edicoes_anteriores.html" />
+    <entry file="file://$PROJECT_DIR$/recursos_humanos.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cerebro_telemovel_Prancheta 1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inscricao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="35" selection-start-line="117" selection-start-column="35" selection-end-line="117" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.myd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="6" selection-start-line="16" selection-end-line="29" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#scroll-page#2;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#0;n#scroll-page#2;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#scroll-page#2;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#3;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#3;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#div#0;n#div#2;n#div#1;n#div#0;n#scroll-page#4;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#scroll-page#5;n#main#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" selection-start-line="106" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js.myd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.myd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8789">
+          <caret line="517" column="5" selection-start-line="517" selection-start-column="5" selection-end-line="517" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="8057" selection-start-line="8057" selection-end-line="8057" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#scrool-page#0;n#footer#0;n#scroll-container#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

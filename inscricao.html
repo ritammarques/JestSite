@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Inscrições para o MYD</title>
+    <link rel="stylesheet" href="style.myd.css">
+    <script src="js.myd.inscricoes.js"></script>
+    <link rel="icon" href="logo_mini_sem_cerebro.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<div class="icon" id="icon">
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+</div>
+<nav class="stroke" id="navbar">
+
+    <ul>
+        <li id="logo"><a href="index.html."><img id="logo2" src="logoJest_Branco.png" height="30"/></a></li>
+        <li><a href="myd.html">Inicio</a></li>
+        <li><a href="myd.html">Sobre</a></li>
+        <li><a href="edicoes_anteriores.html">Edições Anteriores</a></li>
+        <li><a href="">Oradores</a></li>
+        <li><a id="Linguagem">EN</a></li>
+    </ul>
+</nav>
+</scroll-container>
+<main>
+
+<div class="principal2" id="scrool">
+
+    <form action="" method="POST" enctype="multipart/form-data">
+        <Legend>Preenche este formulário para te inscreveres.</Legend>
+        <div>
+            <label class="nome"> Nome:</label>
+            <input type="text" id="name" name="name" placeholder="nome" required/>
+        </div>
+
+        <div>
+            <label class="mail" > E-mail:</label>
+            <input type="email" id="email" name="email" placeholder=" exemplo@mail.pt" required/>
+        </div>
+
+        <div>
+            <label class="data"> Data de nascimento:</label>
+            <input type="date" id="data" name="data" placeholder="**/**/****" required/>
+        </div>
+
+        <div>
+            <label class="estudante"> É estudante?</label><br>
+            <div class="container">
+            <input type="radio" id="estudante" name="estudante"> Sim <br>
+            <span class="radio"></span>
+            </div>
+            <div class="container">
+            <input type="radio" id="naoestudante" name="estudante"> Não <br>
+            <span class="radio"></span>
+            </div>
+
+        </div>
+
+        <div id="curso0" class="invisivel">
+            <div>
+            <label class="Curso"> Qual o teu curso?</label>
+            <input type="text" id="curso" name="curso" placeholder="curso" />
+                </div>
+            <div>
+                <label class="Universidade"> Estudas em que Universidade?</label>
+                <input type="text" id="universidade" name="Universidade" placeholder="Universidade" />
+            </div>
+        </div>
+
+        <div>
+            <label class="dias"> Queres participar em dias da MYD'20? </label><br>
+<div class="container">
+            <input type="checkbox" id="dia22" name="dia22" > 22 de Fevereiro <br>
+            <span class="checkbox"></span>
+</div >
+            <div class="container">
+            <input type="checkbox" id="dia23" name="dia23" > 23 de Fevereiro<br>
+            <span class="checkbox"></span>
+            </div>
+            <div class="container">
+            <input type="checkbox" id="dia22/23" name="dia23" > 22 e 23 de Fevereiro<br>
+            <span class="checkbox"></span>
+            </div>
+
+        </div>
+
+        <div>
+
+            <input type="submit" id="button" name="button" value="Inscrever" required/>
+        </div>
+    </form>
+</div>
+</main>
+
+<footer class="footer">
+
+    <div class="item4">
+        <p>Departament of life Sciences <br>
+            P-3000-406 Coimbra
+            <br> Portugal</p>
+    </div>
+    <div class="item3">
+        <p> geral@jest.com <br>
+            +351 912 945 832 <br>
+            © jest 2018.</p>
+    </div>
+    <div id="maps"></div>
+</footer>
+
+</scroll-container>
+
+<script src="js.myd.inscricoes.js"></script>
+<script src="menu.myd.js"></script>
+</body>
+</html>
